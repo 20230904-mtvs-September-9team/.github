@@ -1,4 +1,14 @@
-## Hi there 👋
+# 9월
+## Back-end Repository
+[9월 back end repository](https://github.com/20230904-mtvs-September-9team/back-end.git)
+
+## Front-end Repository
+[9월 front end repository](https://github.com/20230904-mtvs-September-9team/front-end.git)
+
+## 어떻게 작업했는지 wiki
+[9월 위키](https://github.com/20230904-mtvs-September-9team//.github/wiki)
+
+<br>
 
 <!--
 
