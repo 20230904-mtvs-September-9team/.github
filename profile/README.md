@@ -1,4 +1,4 @@
-# 🔥 9월 Project 
+# 💿 음원 제공 플랫폼
 
 
 ## Back-end Repository
