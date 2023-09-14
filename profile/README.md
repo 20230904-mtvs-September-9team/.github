@@ -5,7 +5,7 @@
 [9월 back end repository](https://github.com/20230904-mtvs-September-9team/back-end.git)
 
 ## Front-end Repository
-[9월 back end repository](https://github.com/20230904-mtvs-September-9team/front-end.git)
+[9월 Front end repository](https://github.com/20230904-mtvs-September-9team/front-end.git)
 
 <br>
 
